@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/heavy-modules.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
