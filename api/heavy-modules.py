@@ -1,8 +1,6 @@
 from http.server import BaseHTTPRequestHandler
 import json
 import requests
-import asyncio
-import aiohttp
 
 class handler(BaseHTTPRequestHandler):
     def do_POST(self):
